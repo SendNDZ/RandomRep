@@ -1,1 +1,2 @@
 This is text for file 1
+CHANGED
